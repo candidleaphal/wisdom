@@ -1,9 +1,21 @@
 {
   "sourcePage": "https://wisdom.candidleap.com/allan/",
-  "count": 25,
+  "count": 26,
   "latestDate": "2026-06-23",
   "latestLabel": "Jun 23, 2026",
   "posts": [
+    {
+      "id": "2069407729253245038",
+      "source": "X",
+      "date": "2026-06-23",
+      "label": "Jun 23, 2026",
+      "tags": [
+        "Craft",
+        "Product"
+      ],
+      "text": "Career hack - Be the go-to person for one part of the tech stack. Once you truly understand something deeply, you start recognizing the same shapes everywhere. Depth in one place becomes leverage in all the others. 🙏",
+      "url": "https://x.com/leinwand/status/2069407729253245038"
+    },
     {
       "id": "7475172521114386434",
       "source": "LinkedIn",
