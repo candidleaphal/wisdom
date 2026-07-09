@@ -1,9 +1,21 @@
 {
   "sourcePage": "https://wisdom.candidleap.com/allan/",
-  "count": 26,
-  "latestDate": "2026-06-23",
-  "latestLabel": "Jun 23, 2026",
+  "count": 27,
+  "latestDate": "2026-07-08",
+  "latestLabel": "Jul 8, 2026",
   "posts": [
+    {
+      "id": "7480530644704403456",
+      "source": "LinkedIn",
+      "date": "2026-07-08",
+      "label": "Jul 8, 2026",
+      "tags": [
+        "Leadership",
+        "Trust"
+      ],
+      "text": "Career hack - Leaders lead. They show up in the hard times, not just the good ones, and they are continually present when people need a leader. They know their team and what drives them. They listen first, gather the full picture, and then make the tough call, explaining it clearly and kindly. People don't follow titles, they follow the person who keeps showing up, hears them out, and tells them the truth with care.",
+      "url": "https://www.linkedin.com/posts/aleinwand/career-hack-leaders-lead-they-show-up-activity-7480530644704403456-Tpmd"
+    },
     {
       "id": "2069407729253245038",
       "source": "X",
