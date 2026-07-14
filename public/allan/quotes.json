@@ -1,9 +1,21 @@
 {
   "sourcePage": "https://wisdom.candidleap.com/allan/",
-  "count": 27,
-  "latestDate": "2026-07-08",
-  "latestLabel": "Jul 8, 2026",
+  "count": 28,
+  "latestDate": "2026-07-13",
+  "latestLabel": "Jul 13, 2026",
   "posts": [
+    {
+      "id": "7482401234012844032",
+      "source": "LinkedIn",
+      "date": "2026-07-13",
+      "label": "Jul 13, 2026",
+      "tags": [
+        "Ownership",
+        "Craft"
+      ],
+      "text": "Career hack - Be prepared. Spend a minute researching the company or the people you’ll be meeting. Read any documents or slides in advance. Taking just two or three minutes to prepare makes a noticeable difference and drives more impact.",
+      "url": "https://www.linkedin.com/posts/aleinwand/career-hack-be-prepared-spend-a-minute-activity-7482401234012844032-YdIJ"
+    },
     {
       "id": "7480530644704403456",
       "source": "LinkedIn",
