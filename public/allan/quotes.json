@@ -1,9 +1,21 @@
 {
   "sourcePage": "https://wisdom.candidleap.com/allan/",
-  "count": 28,
-  "latestDate": "2026-07-13",
-  "latestLabel": "Jul 13, 2026",
+  "count": 29,
+  "latestDate": "2026-07-23",
+  "latestLabel": "Jul 23, 2026",
   "posts": [
+    {
+      "id": "7485851592542334976",
+      "source": "LinkedIn",
+      "date": "2026-07-23",
+      "label": "Jul 23, 2026",
+      "tags": [
+        "Ownership",
+        "Communication"
+      ],
+      "text": "Career hack - See a problem, solve a problem. Don’t just point out problems. Either solve it or help others find the solution. It’s a great way to learn and increase your impact across the entire organization. 🙌🙏",
+      "url": "https://www.linkedin.com/posts/aleinwand/career-hack-see-a-problem-solve-a-problem-activity-7485851592542334976-04B7"
+    },
     {
       "id": "7482401234012844032",
       "source": "LinkedIn",
