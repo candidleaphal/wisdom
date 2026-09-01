@@ -1,9 +1,21 @@
 {
   "sourcePage": "https://wisdom.candidleap.com/allan/",
-  "count": 30,
-  "latestDate": "2026-07-30",
-  "latestLabel": "Jul 30, 2026",
+  "count": 31,
+  "latestDate": "2026-09-01",
+  "latestLabel": "Sep 1, 2026",
   "posts": [
+    {
+      "id": "linkedin-2026-09-01-be-friendly-drive-results",
+      "source": "LinkedIn",
+      "date": "2026-09-01",
+      "label": "Sep 1, 2026",
+      "tags": [
+        "Culture",
+        "Teamwork"
+      ],
+      "text": "Career hack - Be friendly and drive results. Being kind and easy to work with matters more than you realize. It's not a trade-off with high standards, it's an impact multiplier. With practice, you can do both. 🙏",
+      "url": "https://il.linkedin.com/in/datapm"
+    },
     {
       "id": "7488615494632214528",
       "source": "LinkedIn",
