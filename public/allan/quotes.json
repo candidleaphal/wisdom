@@ -1,9 +1,22 @@
 {
   "sourcePage": "https://wisdom.candidleap.com/allan/",
-  "count": 31,
-  "latestDate": "2026-09-01",
-  "latestLabel": "Sep 1, 2026",
+  "count": 32,
+  "latestDate": "2026-09-10",
+  "latestLabel": "Sep 10, 2026",
   "posts": [
+    {
+      "id": "7503845928609550336",
+      "source": "LinkedIn",
+      "date": "2026-09-10",
+      "label": "Sep 10, 2026",
+      "tags": [
+        "Growth",
+        "Teamwork",
+        "Resilience"
+      ],
+      "text": "Career hack - Listen to teams during an incident or crisis. You can learn a lot about how systems work and how people solve problems. It lets you have an impact in future incidents and crises... and they will happen. 🙌",
+      "url": "https://www.linkedin.com/posts/aleinwand_career-hack-listen-to-teams-during-an-incident-activity-7503845928609550336-tMcU"
+    },
     {
       "id": "linkedin-2026-09-01-be-friendly-drive-results",
       "source": "LinkedIn",
